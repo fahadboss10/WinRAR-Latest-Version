@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> ## Latest version: <p class="version">5.90</p>
+<h3>Latest Version: </h3><h3 class="version">5.90</h3>
 
 ```markdown
 More updates coming soon!
